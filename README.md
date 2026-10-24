@@ -1,5 +1,5 @@
 
-# Prática de Programação
+# Exercícios de Programação
 
 Repositório destinado à prática e ao aprendizado contínuo em programação, reunindo exercícios práticos desenvolvidos ao longo dos meus estudos.
 
